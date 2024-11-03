@@ -47,7 +47,7 @@ public class PhanSo {
             this.tuso = this.mauso;
             this.mauso = temp;
         } else {
-            System.out.println("Không thể nghịch đảo phân số vì tử số bằng 0.");
+            System.out.println("none");
         }
         
      }
